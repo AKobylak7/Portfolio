@@ -21,5 +21,17 @@ Przygotowuję się również do certyfikatu ISTQB CTFL 4.0, co pozwala mi uporz�
 
 
 Aktualnie jestem w trakcie mentoringu, podczas którego zdobywam przede wszystkim praktyczne umiejętności w testowaniu oprogramowania. Zaczynając od podstaw SDLC
-w środowiku zwinnym, głównie w SCRUMie, uczę się sposobu pracy jako część zespołu odpowiedzialna za testowanie, a w głównej mierze też podnoszenie jakości oprogramowania.
+w środowiku zwinnym, głównie w SCRUMie, uczę się sposobu pracy jako część zespołu odpowiedzialna za testowanie, w głównej mierze podnoszenie jakości oprogramowania.
+
+Uczę się pracy z backlogiem produktu, analizowania user stories, tworzenia warunków testowych (kryteriów akceptacji) i pokrywania ich przypadkami testowymi. Dostosowuje poziom testów do krytyczności
+systemu,  Wiem jak ułatwić pracę zespołu przez zapewnienie odpowiednich standardów testaliów - wymagań oraz przypadków testowych (potrafię korzystać z metod ATDD, BDD). Płynnie poruszam się w programach do 
+zarządzania testami (ALM), takich jak Jira czy TestRail, korzystam z wtyczek ułatwiających pracę tj Zephyr, ale potrafię też stworzyć niezbędną dokumentację testową bez rozbudowanych zasobów, 
+korzystając np. z Excela.
+
+Dbam o powiązania między testaliami, które ułatwiają pracę zespołowi, dzięki nimi łatwiej zachować zwinność, szczególnie gdy interesariusze modyfikują wymagania produktu.
+
+Wykonywałam zarówno testy statyczne jak i dynamiczne. Podczas testów eksploracyjnych dbam o dokumentację, najczęściej w postaci mapy myśli, dzięki której w przejrzysty sposób zespół może znaleźć
+ścieżki aplikacji oraz wszelkie znalezione anomalie.
+
+Potrafię raportować defekty w przejrzysty sposób, dbam o 
 
