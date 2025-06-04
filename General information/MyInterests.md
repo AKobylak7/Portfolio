@@ -1,4 +1,4 @@
-Uwielbiam aktywność na świeżym powietrzu – najbardziej w górach, gdzie cenię zarówno wymagające szlaki, jak i te spokojniejsze, pełne widoków. Równie chętnie odpoczywam nad morzem, podczas długich spacerów z dala od zgiełku.
+Uwielbiam aktywność na świeżym powietrzu – najbardziej w górach, gdzie cenię wymagające szlaki, ale też spokojniejsze, widokowe. Równie chętnie odpoczywam nad morzem, podczas długich spacerów z dala od zgiełku.
 
 Jestem też zapaloną fanką fantasy – od książek po ekranizacje. Światy takie jak *Harry Potter* czy *Władca Pierścieni* to dla mnie nie tylko rozrywka, ale też inspiracja do kreatywnego myślenia.
 
