@@ -1,42 +1,17 @@
-To, czego się uczę (tylko testowanie). Mentoring, narzędzia, czego się uczymy.. 
+Jestem początkującą testerką oprogramowania, która zdobywa doświadczenie poprzez indywidualny mentoring skupiony na praktyce i realiach pracy w projektach IT. Uczę się nie tylko narzędzi i technik testowania, ale przede wszystkim buduję mindset testerski – nastawienie na jakość, uważność na detale i współpracę w zespole.<br/>
 
-🎓 Obecnie rozwijam się w obszarze testowania oprogramowania, zdobywając praktyczne doświadczenie w ramach indywidualnego mentoringu. 
+Moje działania koncentrują się na zapewnianiu jakości w zwinnych projektach (Scrum), a także na rozwijaniu umiejętności związanych z analizą wymagań, projektowaniem testów i raportowaniem defektów w sposób wspierający pracę developerów.<br/>
 
-Swoje umiejętności rozwijam w kontekście pracy QA w środowisku zwinnym (Agile), w szczególności w Scrumie. 
+Czego już się nauczyłam?<br/>
 
-Pracuję nad zbudowaniem mindestu testerskiego oraz zrozumieniem roli testowania w całym cyklu życia oprogramowania (SDLC), ucząc się m.in. jak wdrażać podejście shift-left, czy współpracować z innymi rolami w projektach IT.
+✅ Znam rolę testerki w zespole Agile – wiem, jak wspierać zespół w dbaniu o jakość od pierwszych etapów projektu i jak komunikować się z Product Ownerem oraz programistami.<br/>
+✅ Analizuję user stories i pomagam doprecyzować kryteria akceptacji – potrafię pracować z backlogiem produktu i konfigurować podstawowe ustawienia w Jira.<br/>
+✅ Projektuję przypadki testowe – tworzę scenariusze dla różnych ścieżek (happy/sad path, edge cases), z dbałością o pokrycie wymagań i traceability. Pracowałam z narzędziami: Zephyr, Xray i TestRail.<br/>
+✅ Raportuję defekty w sposób czytelny i kompletny, z myślą o efektywnym debugowaniu – wiem, co jest pomocne dla programisty.<br/>
+✅ Potrafię działać także bez zaawansowanych narzędzi do testowania – wiem, jak samodzielnie tworzyć czytelne i przydatne szablony do przypadków testowych oraz raportów o defektach, co pozwala mi pracować efektywnie nawet w mniej zautomatyzowanym środowisku.<br/>
+✅ Znam podejścia takie jak ATDD, BDD i shift-left – rozumiem, jaką wartość przynosi wczesne testowanie i angażowanie QA już na etapie analizy wymagań.<br/>
+✅ Testuję eksploracyjnie – korzystam z map myśli, analizuję konsolę developerską, przeprowadzam sesje testowe oparte na kartach opisu testów.<br/>
+✅ Tworzę dokumentację testową – potrafię budować ją w Confluence lub Notion w sposób wspierający cały zespół developerski.<br/>
+✅ Znam podstawy testowania UX i dostępności cyfrowej – rozumiem znaczenie użyteczności i dostępności systemów dla wszystkich użytkowników.<br/>
 
-W ramach nauki zdobywam praktyczne umiejętności z zakresu:
-
-🔹 pisania przypadków testowych (Zephyr, TestRail, Gherkin),
-🔹 raportowania defektów w sposób przejrzysty i wartościowy dla zespołu,
-🔹 wykonywania testów eksploracyjnych,
-🔹 testowania REST API (Postman) i korzystania z DevTools,
-🔹 pracy z bazami danych (SQL),
-🔹 tworzenia przejrzystej dokumentacji (Confluence, Notion),
-🔹 współpracy z zespołem przy tworzeniu user stories i kryteriów akceptacji,
-
-Przygotowuję się również do certyfikatu ISTQB CTFL 4.0, co pozwala mi uporządkować wiedzę i poznać teorię testowania.
-
-
-
-Aktualnie jestem w trakcie mentoringu, podczas którego zdobywam przede wszystkim praktyczne umiejętności w testowaniu oprogramowania. Zaczynając od podstaw SDLC
-w środowiku zwinnym, głównie w SCRUMie, uczę się sposobu pracy jako część zespołu odpowiedzialna za testowanie, a w głównej mierze podnoszenie jakości oprogramowania.
-
-Uczę się pracy z backlogiem produktu, analizowania user stories, tworzenia warunków testowych (kryteriów akceptacji) i pokrywania ich przypadkami testowymi. Dostosowuje poziom testów do krytyczności
-systemu za podstawę biorąc tworzenie happy paths, sad paths oraz edge cases. Wiem jak ułatwić pracę zespołu przez zapewnienie odpowiednich standardów testaliów - wymagań oraz przypadków testowych 
-(potrafię korzystać z metod ATDD, BDD). Płynnie poruszam się w programach do zarządzania testami (ALM), takich jak Jira czy TestRail, korzystam z wtyczek ułatwiających pracę tj Zephyr, ale potrafię 
-też stworzyć niezbędną dokumentację testową bez rozbudowanych zasobów, korzystając np. z Excela.
-
-Dbam o powiązania między testaliami, które ułatwiają pracę zespołowi, dzięki nimi łatwiej zachować zwinność, szczególnie gdy interesariusze modyfikują wymagania produktu.
-
-Podczas testów eksploracyjnych zawsze tworzę dokumentację, najczęściej w postaci mapy myśli, dzięki której w przejrzysty sposób zespół może znaleźć ścieżki aplikacji oraz 
-wszelkie znalezione anomalie.
-Zwracam uwagę na UI/UX, dostępność, użyteczność, korzystam z konsoli deweloperskiej, dzięki czemu 
-
-Potrafię raportować defekty w przejrzysty sposób, szcegółowo podając opis, kroki do reprodukcji, rezultaty (oczekiwany i rzeczywisty) oraz załączniki.
-
-Podczas mentoringu zdobywam też wiedzę teoretyczną, bazując na sylabusie przygotowuję się do certyfikacji ISTQB Foundation Level. Wiedza teoretyczna pomaga mi w uporządkowaniu wiedzy.
-
-
-
+Aktualnie przygotowuję się do certyfikatu ISTQB CTFL 4.0, który planuję zdać w czerwcu. Mam już bazę teoretyczną ale przede wszystkim potrafię łączyć ją z praktyką.
