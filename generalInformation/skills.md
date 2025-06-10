@@ -28,3 +28,34 @@
 - Doświadczenie w **środowisku Agile** (Scrum, Kanban – udział w ceremoniałach, refinements)
 - **Zarządzanie wiedzą** w zespole (dokumentacja procesów testowych, tworzenie shareable assets)
 - Tworzenie **dokumentacji technicznej** (np. test strategy, checklists, raporty z testów)
+
+## **Technical Skills**
+
+### **Software Testing**
+
+- Hands-on experience with **Shift Left approach** in the testing process
+- Creating and managing **test cases** (Gherkin, BDD scenarios) in tools: **Zephyr, TestRail, Xray**
+- **Defect reporting** using **JIRA** (including detailed bug reports)
+- **Exploratory testing** (including heuristic-based sessions)
+- **REST API testing** (Postman – creating collections, automating basic tests)
+- Writing and optimizing **SQL queries** (SELECT, JOIN, aggregations)
+- Knowledge of **TDD, ATDD, BDD methodologies** (collaborating with devs on acceptance criteria)
+
+### **Testing Tools**
+
+- Test management: **Zephyr, TestRail, Xray** (planning test suites, tracking execution)
+- Defect tracking & project management: **JIRA** (including workflow configuration)
+
+### **Application Lifecycle Management (ALM)**
+
+- Supporting **SDLC** (Software Development Life Cycle) in **Agile/Scrum/Kanban** environments
+- Collaboration with DevOps teams on **CI/CD** implementations
+
+---
+
+## **Soft Skills**
+
+- **Whole Team Approach** mindset (shared ownership of product quality)
+- Experience in **Agile environments** (Scrum, Kanban – participation in ceremonies, refinements)
+- **Knowledge management** within the team (test process documentation, creating shareable assets)
+- Preparing **technical documentation** (test strategy, checklists, test reports)
