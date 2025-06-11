@@ -1,10 +1,10 @@
-# About me
+## About me
 
 I am an aspiring software tester gaining hands-on experience through individual mentoring, focused on practical skills and real-world IT project challenges. I’m not only learning testing tools and techniques but also developing a tester’s mindset - quality-driven, detail-oriented, and collaborative.<br/>
 
 My work emphasizes quality assurance (QA) in Agile (Scrum) projects, along with growing skills in requirement analysis, test design, and defect reporting in a way that supports developers.<br/>
 
-## What I’ve Learned So Far?<br/>
+### What I’ve Learned So Far?<br/>
 
 🔹 **I understand the tester’s role in Agile teams** - how to advocate for quality from the early stages and communicate effectively with Product Owners and developers.<br/>
 🔹 **I analyze user stories and help refine acceptance criteria, working with product backlogs and configuring basic Jira settings**.<br/>
