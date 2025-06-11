@@ -1,10 +1,12 @@
-Do tej pory zdobywałam doświadczenie w obszarze zarządzania wiedzą, tworzenia materiałów szkoleniowych oraz projektowania e-learningów. Specjalizowałam się w:  
+## **My past expierience:**
 
-🔹 Tworzeniu i porządkowaniu baz wiedzy dla analityków i użytkowników końcowych,  
-🔹 Przygotowywaniu różnorodnych materiałów szkoleniowych (video, grafiki, prezentacje, dokumentacje),  
-🔹 Projektowaniu i utrzymaniu stron intranetowych (od koncepcji po wdrożenie i aktualizacje),  
-🔹 Tworzeniu interaktywnych kursów e-learningowych (od analizy potrzeb po projektowanie UI/UX, testowanie i publikację).  
+Previously, I gained experience in knowledge management, instructional design, and e-learning development. My expertise included:
 
-Do realizacji tych zadań wykorzystywałam narzędzia takie jak Articulate Storyline, Adobe Illustrator, Camtasia, a także technologie webowe.  
+🔹 Creating and organizing knowledge bases for analysts and end users,<br>
+🔹 Developing diverse training materials (videos, graphics, presentations, documentation),<br>
+🔹 Designing and maintaining intranet sites (from concept to implementation and updates),<br>
+🔹 Building interactive e-learning courses (from needs analysis to UI/UX design, testing, and publication).<br>
 
-To doświadczenie nauczyło mnie uważności na potrzeby użytkownika i dbania o jakość produktu - kompetencji, które zamierzam wykorzystywać również w testowaniu.
+For these tasks, I used tools like Articulate Storyline, Adobe Illustrator, Camtasia, and web technologies.
+
+This experience taught me to be attentive to user needs and committed to product quality—skills I now apply to software testing.
