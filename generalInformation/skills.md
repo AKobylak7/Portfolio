@@ -2,7 +2,7 @@
 
 ### **Testing Skills:**
 🔹 Shift-left & Agile Testing,<br>
-🔹 Test-first Approaches: BDD, ATDD (TDD bym jednak pominął, bo to jednak bardziej dla developerów),<br>
+🔹 Test-first Approaches: BDD, ATDD,<br>
 🔹 Test Design & Management (Gherkin or steps-based),<br>
 🔹 Defect Reporting,<br>
 🔹 REST API Testing,<br>
