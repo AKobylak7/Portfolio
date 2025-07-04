@@ -1,9 +1,2 @@
-Mapa myśli z apki z wieloma kontami. 
-
-Skopiować mapę do osobnej tablicy w Miro.
-
-Dodać legende do mapy.
-
-Przejrzeć, podlinkować tutaj.
-
+[My mind map created during exploratory testing](https://miro.com/app/board/uXjVIpYEmGU=/?share_link_id=687717024212)
 
