@@ -1,4 +1,6 @@
-[Here you can find my Bruno collections which includes Petstore / Json placeholder requests and API tests](https://drive.google.com/drive/folders/1Neo1Y6Lg6QOFKxNjsAfvdYcSFRSFAk96?usp=sharing)
+Here you can find my requests and API test to PetStore and JsonPlaceholder.
 
+[JsonPlaceholder.json](https://github.com/user-attachments/files/21091055/JsonPlaceholder.json)
 
+[PetStore.json](https://github.com/user-attachments/files/21091056/PetStore.json)
 
