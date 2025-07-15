@@ -16,4 +16,4 @@ My work emphasizes quality assurance (QA) in Agile (Scrum) projects, along with 
 🔹 **I create test documentation in Confluence or Notion, ensuring it supports the entire dev team**.<br/>
 🔹 **I know the basics of UX and digital accessibility testing** - I understand the importance of usability and inclusivity.<br/>
 
-I have passed the ISTQB Certified Tester Foundation Level (CTFL) exam and hold the certification. My knowledge is not only theoretical—I also know how to apply testing principles effectively in practice.
+I have ISTQB CTFL 4.0 certification, but my knowledge is not only theoretical — I also know how to apply testing principles effectively in practice.
