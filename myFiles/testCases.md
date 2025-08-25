@@ -1,6 +1,9 @@
 ##  Jira's Test Cases
 
-[Buggy Cars Rating Test Cases](https://aleksandrakobylak1.atlassian.net/issues/?jql=project%20%3D%20BCR%20AND%20type%20%3D%20%22Test%20Case%22%20ORDER%20BY%20created%20DESC)
+Click on the link [testCases](https://aleksandrakobylak1.atlassian.net/jira/software/projects/BCR/boards/1/backlog?issueType=10007&atlOrigin=eyJpIjoiNjE2OWJiMjYzM2MxNGZiYjgwMmRiNjQwN2NhNmJiYjMiLCJwIjoiaiJ9) and log in to Jira: <br>
+
+LOGIN:    akobylak.portfolio@gmail.com<br>
+PASSWORD: Reruitment-password<br>
 
 ## Zyphyr in Jira
 
